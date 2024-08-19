@@ -1,59 +1,59 @@
-# aoc-adventures
-
-Welcome to **aoc-adventures**! 🎉
+# Advent of Code Solutions
 
 ## About This Repository
 
-This repository is dedicated to my solutions for Advent of Code puzzles. Advent of Code is an annual coding event that features a series of challenging puzzles released daily from December 1st to 25th. The aim is to solve these puzzles using programming skills and logic.
+Welcome to my Advent of Code solutions repository! 🎉
+
+This repository contains my solutions to the Advent of Code problems. Advent of Code is an annual event featuring a series of programming puzzles designed to be fun and challenging. Each day, a new puzzle is released, and the goal is to solve these puzzles using programming and logic skills.
 
 ## Repository Goals
 
-- **Showcase Solutions:** Provide Python solutions to Advent of Code puzzles from recent years.
-- **Enhance Skills:** Demonstrate problem-solving techniques and coding practices.
-- **Expand Collection:** Solve puzzles from various years, starting with the most recent.
+- **Problem Solving:** Showcase solutions to Advent of Code puzzles from recent years.
+- **Logic Building:** Demonstrate problem-solving skills through various programming challenges.
+- **Continuous Improvement:** Aim to solve puzzles from all available years, starting with the most recent.
 
 ## Contents
 
-- **`dayXX.py`**: Python scripts for each day's puzzle (where `XX` represents the day).
+- **`dayXX.py`**: Python scripts for each day's puzzle (where `XX` is the day of the month).
 - **`dayXX.txt`**: Input data files for each day's puzzle.
-- **`README.md`**: This file, offering an overview of the repository.
+- **`README.md`**: This file, providing an overview of the repository.
 
-## How to Get Started
+## How to Use
 
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/aoc-adventures.git
+    git clone https://github.com/yourusername/aoc.git
     ```
 
 2. **Navigate to the Repository:**
 
     ```bash
-    cd aoc-adventures
+    cd aoc
     ```
 
-3. **Run a Solution:**
+3. **Run the Solutions:**
 
-    Each day's solution can be run using the corresponding Python script. For example:
+    Each day's solution is contained in a Python script file named `dayXX.py`. To run a specific day's solution, use:
 
     ```bash
     python dayXX.py
     ```
 
-4. **Check Input Data:**
+4. **Review Input Data:**
 
-    Input data for each puzzle is available in `.txt` files named `dayXX.txt`.
+    Input data for each puzzle can be found in the corresponding `.txt` file, named `dayXX.txt`.
 
-## Contributions
+## Contribution
 
-Contributions are welcome! If you have improvements, bug fixes, or suggestions, please open a pull request or report an issue. Your contributions help make this repository better!
+Feel free to contribute by creating pull requests, reporting issues, or suggesting improvements. If you have any questions or need help with the puzzles, don't hesitate to reach out!
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 
-A special thanks to [Advent of Code](https://adventofcode.com/) for creating such engaging and challenging puzzles.
+- [Advent of Code](https://adventofcode.com/) - For providing an enjoyable and challenging set of puzzles.
 
-Happy coding and solving! 🚀
+Happy coding! 🚀
